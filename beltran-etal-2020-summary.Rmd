@@ -1,0 +1,18 @@
+---
+title: "Beltran et al. (2020) Paper Summary"
+author: "Paige Amos, Andrew Bickell, Beth Blanchette, Gena Desjarin"
+date: "11/03/2021"
+output: pdf_document
+---
+
+### **Broad Questions** ###
+
+### **Changing Viewpoints** ###
+
+### **Connections** ###
+
+### **Epistemology** ###
+
+### **How Science Happens** ###
+
+
