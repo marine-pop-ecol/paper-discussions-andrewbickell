@@ -32,7 +32,7 @@ Reading this paper made it more evident that what we consider “valid” knowle
 
 ### **How Science Happens** ###
 
-We think that it’s important to note that if certain scientists read a paper and are not experts in the specific methods it may cause them to conclude something that was not actually the outcome of the paper. Or conversely, if a scientist reads a paper and does not fully understand the methods they could falsely accept the result. This paper made it more clear how science is always a collaborative process where peer review and multiple people doing research on the same topic makes our broader understanding stronger. 
+We think that its important to note that if certain scientists read a paper and are not experts in the specific methods it may cause them to conclude something that was not actually the outcome of the paper. Or conversely, if a scientist reads a paper and does not fully understand the methods they could falsely accept the result. This paper made it more clear how science is always a collaborative process where peer review and multiple people doing research on the same topic makes our broader understanding stronger. 
 
 \newpage
 
@@ -57,10 +57,14 @@ A survey was used to calculate self-efficacy: students rated their responses on 
 **Main findings - Gena** 
 
 They found that: 
-Students who entered the Ecology and Evolutionary program from under-represented groups, other than women, were less likely to graduate from the EEB  program than their peers.
-Under-represented groups were less likely to enroll in field courses than their peers.
-Field courses narrowed achievement and completion gaps between under-represented minorities and other students. 
-Under-represented groups began field courses with lower self-efficacy, but it increased more and by the end of the course their self-reported confidence was comparable to their peers.
+
+1. Students who entered the Ecology and Evolutionary program from under-represented groups, other than women, were less likely to graduate from the EEB  program than their peers.
+
+2. Under-represented groups were less likely to enroll in field courses than their peers.
+
+3. Field courses narrowed achievement and completion gaps between under-represented minorities and other students. 
+
+4. Under-represented groups began field courses with lower self-efficacy, but it increased more and by the end of the course their self-reported confidence was comparable to their peers.
 
 ## **Key terms to know** ##
 
@@ -76,21 +80,24 @@ EOP:Educational Opportunity Program. Whether they are part of the Educational Op
 
 Demographic: Particular portion of a population with a shared characteristic (age, gender, race, etc)
 Self-efficacy:  A feeling of increased competency in science-related tasks
+
 Matriculate: To be enrolled at a college or university (matriculating is essentially students attending or studying at a college or university) 
+
 Field courses: Courses based around field-based learning that facilitate hands-on activities and inquiry-based research. These courses focus on replacing a competitive model of learning with a team model of achievement in which collaboration and shared learning are valued
+
 “Leaky pipeline”: A leaky pipeline is a system designed to channel something from one place to another that is flawed in such a way that it loses some quantity of what it carries before it reaches the destination. Ex. Retention gap is having a smaller number of people graduate from EEB than the number of people who originally enrolled in EEB.
 
 ## **General questions** ##
 
-What question are the authors asking and what was their hypothesis? Why would a paper like this be necessary? Why do you think its important that people from a variety of racial and ethnic backgrounds be represented in STEM, or more specifically in EEB? 
+1. What question are the authors asking and what was their hypothesis? Why would a paper like this be necessary? Why do you think its important that people from a variety of racial and ethnic backgrounds be represented in STEM, or more specifically in EEB? 
 
-What do you think some of the benefits of field courses are for students and for the scientific community in general? Can you think of any reasons why traditional lecture-based education is still the norm? Are there any benefits to learning in this way?  
+2. What do you think some of the benefits of field courses are for students and for the scientific community in general? Can you think of any reasons why traditional lecture-based education is still the norm? Are there any benefits to learning in this way?  
 
-Can you think of any potential barriers that keep students from accessing field schools? Equipment, certifications, remote having obligations Specifically, are there any barriers you can think of that apply more so to students who come from a minority background? 
+3. Can you think of any potential barriers that keep students from accessing field schools? Equipment, certifications, remote having obligations Specifically, are there any barriers you can think of that apply more so to students who come from a minority background? 
 
-This study compared demographic data of students who graduated within 5 years. Do you see any potential problems in not including students who may have taken longer than 5 years to graduate? 
+4. This study compared demographic data of students who graduated within 5 years. Do you see any potential problems in not including students who may have taken longer than 5 years to graduate? 
 
-This study collected information on students who identify as URM, FIF and EOP from self-reported data and they collected survey data as well. Do you see any potential issues with collecting data this way? Is there any other method you can think of that they could have used to collect this data?  
+5. This study collected information on students who identify as URM, FIF and EOP from self-reported data and they collected survey data as well. Do you see any potential issues with collecting data this way? Is there any other method you can think of that they could have used to collect this data?  
 
 
 ## **Key figures** ##
@@ -99,28 +106,38 @@ This study collected information on students who identify as URM, FIF and EOP fr
 **Figure 1 - Paige**
 
 Firstly, what is being addressed in this figure? What do the circles represent and why are they  overlapping and different sizes? 
+
 Which of these results stands out from the others? How might this difference need to be considered when determining who faces barriers in academic institutions?
+
 Did anyone catch why people with other gender identities were not included in the dataset for these results? Do you think this was the correct decision? 
+
 Do you think this is an effective way to visualize the data?
 
 **Figure 3 - Beth**
 
 What are the authors trying to represent with these graphs? What does the black line represent and what does the blue line represent? What patterns do we notice? 
+
 Do any of these four results stand out as being different from the others? Can you think of some possible mechanisms behind this observed pattern? What are some barriers to enrollment in field courses?
+
 How can this study be used to inform colleges and universities ways in which they can minimize achievement and retention gaps between underrepresented minorities?
 
 **Figure 4 - Gena**
 
 What question is being addressed in this figure? What do each of the bars on this graph represent? 
 Are there any patterns that stand out from the figure? What types of courses resulted in the greatest increase in self-efficacy? 
+
 Why do you think they separated field courses with different units? 
+
 Why do we see such a low increase in science career 
+
 What are the issues with self reporting data especially on a scale from 1-5? They concluded from these results that field courses increased self-efficacy in students. Do you think this is a fair way to interpret these results? 
 
 **Figure 5 - Andrew**
 
 What question is being addressed in this figure? What do the dots and squares on the scale represent? 
+
 What are the issues with self reporting data especially on a scale from 1-5?
+
 From this figure, the researchers concluded that this field course closed the knowledge gap between underrepresented minority students and their peers. Do you think this graph supports this conclusion?  
 
 
